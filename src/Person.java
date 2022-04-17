@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 public class Person {//我是一个程序开发爱好者，代码在我的胡乱操作下竟然上传到了这里
+=======
+public class Person {
+>>>>>>> Initial commit
     String name;
     int age;
 
